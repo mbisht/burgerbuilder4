@@ -1,0 +1,7 @@
+Redux use in Burgerbuilder project
+1) npm install --save redux
+2) node redux-basics.js
+3) npm install --save react-redux
+or
+npm install --save redux react-redux
+4) run-> npm start
