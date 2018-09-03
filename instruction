@@ -5,3 +5,5 @@ Redux use in Burgerbuilder project
 or
 npm install --save redux react-redux
 4) run-> npm start
+
+**only checkout summary page -> continue button not showing the delivery form and not store data in database(firebase)
